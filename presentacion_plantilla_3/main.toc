@@ -1,0 +1,9 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Deuteron\IeC {\^o}mio 26.1-15}{2}{0}{1}
+\beamer@sectionintoc {2}{Introdu\IeC {\c c}\IeC {\~a}o}{19}{0}{2}
+\beamer@sectionintoc {3}{I - Contribuir \IeC {\'e} Reconhececimento}{31}{0}{3}
+\beamer@sectionintoc {4}{II - Contribuir \IeC {\'e} Adora\IeC {\c c}\IeC {\~a}o}{40}{0}{4}
+\beamer@sectionintoc {5}{III - Contribuir \IeC {\'e} Compromisso}{53}{0}{5}
+\beamer@sectionintoc {6}{IV - Contribuir \IeC {\'e} Fidelidade}{78}{0}{6}
+\beamer@sectionintoc {7}{V - Contribuir \IeC {\'e} Confian\IeC {\c c}a}{79}{0}{7}
+\beamer@sectionintoc {8}{Conclus\IeC {\~a}o}{80}{0}{8}
